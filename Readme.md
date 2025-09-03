@@ -1,8 +1,8 @@
 # LLM Things
 
-![https://www.figma.com/community/file/1541778616544636852/llm-things](readme_assets/plugin-badge.svg)
+[![](readme_assets/plugin-badge.svg)](https://www.figma.com/community/file/1541778616544636852/llm-things)
 &nbsp;&nbsp;
-![https://df.fenx.work/llm-things/](readme_assets/df-badge.svg)
+[![](readme_assets/df-badge.svg)](https://df.fenx.work/llm-things/)
 
 <br>
 
