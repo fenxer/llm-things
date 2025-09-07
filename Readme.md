@@ -15,6 +15,8 @@ Got any new ideas? Feel free to open an issue!
 | Sticker | Description |
 | ------------- | ------------- |
 | <img src="stickers/claude-code.png" width="400"> | People often see this sentence at the beginning of replies in Claude Code. |
+| <img src="stickers/deepseek-aha.png" width="400"> | DeepSeek immersed itself in the RL bathtub, and as mathematical formulas spilled out, it exclaimed, "Wait, wait. Wait. That’s an aha moment I can flag here." |
+| <img src="stickers/rag-dead-alive.png" width="400"> | RAG is dead, and alive, and dead again, and alive again. |
 | <img src="stickers/vibe-pr.png" width="400"> | These massive pull requests often contain LLM collaboration. |
 | <img src="stickers/pliny.png" width="400"> | TIME100 AI 2025, Pliny the Liberator made the cut. Wait, what? |
 | <img src="stickers/coming-weeks.png" width="400"> | The longest time in the world. |
