@@ -15,6 +15,7 @@ Got any new ideas? Feel free to open an issue!
 | Sticker | Description |
 | ------------- | ------------- |
 | <img src="stickers/claude-code.png" width="400"> | People often see this sentence at the beginning of replies in Claude Code. |
+| <img src="stickers/apple-intelligence-delay.png" width="400"> | It's been almost a year since its announcement, and Apple Intelligence is still unavailable in mainland China. iPhone users in China consistently see the small footnote: "Apple Intelligence launch date subject to regulatory approval."<br />As for "pigeon", in contemporary Chinese it means to "break a promise" or "fail to keep an appointment". So it's appearance. |
 | <img src="stickers/deepseek-aha.png" width="400"> | DeepSeek immersed itself in the RL bathtub, and as mathematical formulas spilled out, it exclaimed, "Wait, wait. Wait. That’s an aha moment I can flag here." |
 | <img src="stickers/rag-dead-alive.png" width="400"> | RAG is dead, and alive, and dead again, and alive again. |
 | <img src="stickers/vibe-pr.png" width="400"> | These massive pull requests often contain LLM collaboration. |
