@@ -15,6 +15,11 @@ Got any new ideas? Feel free to open an issue!
 | Sticker | Description |
 | ------------- | ------------- |
 | <img src="stickers/claude-code.png" width="400"> | People often see this sentence at the beginning of replies in Claude Code. |
+| <img src="stickers/safeclaw.png" width="400"> | 龙虾千万条，安全第一条。配置不规范，系统两行泪。Countless lobsters, safety rule first. Messy configs, a system in pools (of tears). |
+| <img src="stickers/qwen-ditto.png" width="400"> | The Qwen models have made a massive contribution to the open-source community. Since you can see its influence in so many open-source projects, it reminds me a bit of Ditto! And yeah, you caught me—I've definitely been playing a lot of Pokopia lately. |
+| <img src="stickers/distillation.png" width="400"> | Hey bro! You up? There's a new Claude model out... |
+| <img src="stickers/soul-md.png" width="400"> | Do Soulers dream of digital soul.md? |
+| <img src="stickers/anthropic-wanted.png" width="400"> | Wanted: Anyone with a Pinyin name. Penalty for being caught: A full refund. |
 | <img src="stickers/apple-intelligence-delay.png" width="400"> | It's been almost a year since its announcement, and Apple Intelligence is still unavailable in mainland China. iPhone users in China consistently see the small footnote: "Apple Intelligence launch date subject to regulatory approval."<br />As for "pigeon", in contemporary Chinese it means to "break a promise" or "fail to keep an appointment". So it's appearance. |
 | <img src="stickers/deepseek-aha.png" width="400"> | DeepSeek immersed itself in the RL bathtub, and as mathematical formulas spilled out, it exclaimed, "Wait, wait. Wait. That’s an aha moment I can flag here." |
 | <img src="stickers/rag-dead-alive.png" width="400"> | RAG is dead, and alive, and dead again, and alive again. |
