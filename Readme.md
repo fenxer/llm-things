@@ -14,7 +14,8 @@ Got any new ideas? Feel free to open an issue!
 
 | Sticker | Description |
 | ------------- | ------------- |
-| <img src="stickers/claude-code.png" width="400"> | People often see this sentence at the beginning of replies in Claude Code. |
+| <img src="stickers/claude-code.png" width="400"> | In the past, people often saw this sentence at the beginning of replies in Claude Code. |
+| <img src="stickers/mistral.png" width="400"> | Fat cat saves the world |
 | <img src="stickers/safeclaw.png" width="400"> | 龙虾千万条，安全第一条。配置不规范，系统两行泪。Countless lobsters, safety rule first. Messy configs, a system in pools (of tears). |
 | <img src="stickers/qwen-ditto.png" width="400"> | The Qwen models have made a massive contribution to the open-source community. Since you can see its influence in so many open-source projects, it reminds me a bit of Ditto! And yeah, you caught me—I've definitely been playing a lot of Pokopia lately. |
 | <img src="stickers/distillation.png" width="400"> | Hey bro! You up? There's a new Claude model out... |
